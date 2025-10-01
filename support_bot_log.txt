@@ -1,0 +1,124 @@
+2025-09-29 22:21:41,600 - INFO - Use pytorch device_name: cpu
+2025-09-29 22:21:41,601 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 22:22:14,351 - ERROR - Document not found: faq.txt
+2025-09-29 22:22:14,376 - INFO - Loaded document: faq.txt with 0 sections
+2025-09-29 22:22:22,621 - INFO - Use pytorch device_name: cpu
+2025-09-29 22:22:22,622 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 22:22:27,831 - ERROR - Document not found: faq.txt
+2025-09-29 22:22:27,856 - INFO - Loaded document: faq.txt with 0 sections
+2025-09-29 22:23:28,885 - INFO - 
+============================================================
+2025-09-29 22:23:28,886 - INFO - NEW QUERY: How do I reset my password?
+2025-09-29 22:23:28,886 - INFO - ============================================================
+2025-09-29 22:23:28,886 - INFO - No relevant context found for: How do I reset my password?
+2025-09-29 22:23:28,886 - INFO - Feedback received: good
+2025-09-29 22:23:28,886 - INFO - 
+============================================================
+2025-09-29 22:23:28,886 - INFO - NEW QUERY: What's the refund policy?
+2025-09-29 22:23:28,887 - INFO - ============================================================
+2025-09-29 22:23:28,887 - INFO - No relevant context found for: What's the refund policy?
+2025-09-29 22:23:28,887 - INFO - Feedback received: good
+2025-09-29 22:23:28,887 - INFO - 
+============================================================
+2025-09-29 22:23:28,887 - INFO - NEW QUERY: How do I contact support?
+2025-09-29 22:23:28,887 - INFO - ============================================================
+2025-09-29 22:23:28,887 - INFO - No relevant context found for: How do I contact support?
+2025-09-29 22:23:28,887 - INFO - Feedback received: good
+2025-09-29 22:23:28,887 - INFO - 
+============================================================
+2025-09-29 22:23:28,887 - INFO - NEW QUERY: What are the shipping options?
+2025-09-29 22:23:28,887 - INFO - ============================================================
+2025-09-29 22:23:28,887 - INFO - No relevant context found for: What are the shipping options?
+2025-09-29 22:23:28,888 - INFO - Feedback received: not helpful
+2025-09-29 22:23:28,888 - INFO - Adjusting response based on feedback: not helpful
+2025-09-29 22:23:28,888 - INFO - No relevant context found for: What are the shipping options? Please provide more details.
+2025-09-29 22:23:28,888 - INFO - Rephrased query: What are the shipping options? Please provide more details.
+2025-09-29 22:23:28,888 - INFO - Feedback received: good
+2025-09-29 22:23:28,888 - INFO - 
+============================================================
+2025-09-29 22:23:28,888 - INFO - NEW QUERY: How do I fly to the moon?
+2025-09-29 22:23:28,888 - INFO - ============================================================
+2025-09-29 22:23:28,888 - INFO - No relevant context found for: How do I fly to the moon?
+2025-09-29 22:23:28,888 - INFO - Feedback received: too vague
+2025-09-29 22:23:28,888 - INFO - Adjusting response based on feedback: too vague
+2025-09-29 22:23:28,888 - INFO - Feedback received: good
+2025-09-29 22:27:37,508 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-29 22:27:38,261 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-29 22:27:42,483 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-29 22:27:44,646 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-09-29 22:27:50,015 - INFO - HTTP Request: GET https://cdn-media.huggingface.co/frpc-gradio-0.3/frpc_windows_amd64.exe "HTTP/1.1 200 OK"
+2025-09-29 22:28:50,563 - INFO - HTTP Request: HEAD https://bc8c32cbc8ec59effc.gradio.live "HTTP/1.1 200 OK"
+2025-09-29 22:28:52,308 - INFO - Chat query: How do I reset my password?
+2025-09-29 22:28:52,308 - INFO - No relevant context found for: How do I reset my password?
+2025-09-29 22:28:55,861 - INFO - Chat query: What is your refund policy?
+2025-09-29 22:28:55,862 - INFO - No relevant context found for: What is your refund policy?
+2025-09-29 22:28:58,242 - INFO - Chat query: How can I contact support?
+2025-09-29 22:28:58,243 - INFO - No relevant context found for: How can I contact support?
+2025-09-29 22:29:00,304 - INFO - Chat query: What payment methods do you accept?
+2025-09-29 22:29:00,305 - INFO - No relevant context found for: What payment methods do you accept?
+2025-09-29 22:30:12,345 - INFO - Use pytorch device_name: cpu
+2025-09-29 22:30:12,345 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 22:30:18,240 - INFO - Loaded document: faq.txt with 10 sections
+2025-09-29 22:30:24,173 - INFO - 
+============================================================
+2025-09-29 22:30:24,173 - INFO - NEW QUERY: How do I reset my password?
+2025-09-29 22:30:24,174 - INFO - ============================================================
+2025-09-29 22:30:24,254 - INFO - Query: 'How do I reset my password?' | Best match score: 0.599
+2025-09-29 22:30:24,743 - INFO - Generated answer (confidence: 0.502): go to the login page
+2025-09-29 22:30:24,744 - INFO - Feedback received: too vague
+2025-09-29 22:30:24,744 - INFO - Adjusting response based on feedback: too vague
+2025-09-29 22:30:24,804 - INFO - Query: 'How do I reset my password?' | Best match score: 0.599
+2025-09-29 22:30:24,804 - INFO - Added context to response
+2025-09-29 22:30:24,805 - INFO - Feedback received: good
+2025-09-29 22:30:24,805 - INFO - 
+============================================================
+2025-09-29 22:30:24,806 - INFO - NEW QUERY: What's the refund policy?
+2025-09-29 22:30:24,806 - INFO - ============================================================
+2025-09-29 22:30:24,884 - INFO - Query: 'What's the refund policy?' | Best match score: 0.623
+2025-09-29 22:30:25,001 - INFO - Generated answer (confidence: 0.365): We offer full refunds within 30 days of purchase
+2025-09-29 22:30:25,002 - INFO - Feedback received: good
+2025-09-29 22:30:25,002 - INFO - 
+============================================================
+2025-09-29 22:30:25,003 - INFO - NEW QUERY: How do I contact support?
+2025-09-29 22:30:25,003 - INFO - ============================================================
+2025-09-29 22:30:25,071 - INFO - Query: 'How do I contact support?' | Best match score: 0.717
+2025-09-29 22:30:25,183 - INFO - Generated answer (confidence: 0.339): Email us at support@example.com
+2025-09-29 22:30:25,183 - INFO - Feedback received: good
+2025-09-29 22:30:25,184 - INFO - 
+============================================================
+2025-09-29 22:30:25,184 - INFO - NEW QUERY: What are the shipping options?
+2025-09-29 22:30:25,185 - INFO - ============================================================
+2025-09-29 22:30:25,245 - INFO - Query: 'What are the shipping options?' | Best match score: 0.565
+2025-09-29 22:30:25,353 - INFO - Generated answer (confidence: 0.212): free for orders over $50
+2025-09-29 22:30:25,353 - INFO - Feedback received: good
+2025-09-29 22:30:25,354 - INFO - 
+============================================================
+2025-09-29 22:30:25,354 - INFO - NEW QUERY: How do I fly to the moon?
+2025-09-29 22:30:25,355 - INFO - ============================================================
+2025-09-29 22:30:25,423 - INFO - Query: 'How do I fly to the moon?' | Best match score: 0.107
+2025-09-29 22:30:25,423 - WARNING - Low relevance score for query: How do I fly to the moon?
+2025-09-29 22:30:25,424 - INFO - No relevant context found for: How do I fly to the moon?
+2025-09-29 22:30:25,424 - INFO - Feedback received: not helpful
+2025-09-29 22:30:25,424 - INFO - Adjusting response based on feedback: not helpful
+2025-09-29 22:30:25,505 - INFO - Query: 'How do I fly to the moon? Please provide more details.' | Best match score: 0.121
+2025-09-29 22:30:25,506 - WARNING - Low relevance score for query: How do I fly to the moon? Please provide more details.
+2025-09-29 22:30:25,506 - INFO - No relevant context found for: How do I fly to the moon? Please provide more details.
+2025-09-29 22:30:25,506 - INFO - Rephrased query: How do I fly to the moon? Please provide more details.
+2025-09-29 22:30:25,506 - INFO - Feedback received: too vague
+2025-09-29 22:30:25,506 - INFO - Adjusting response based on feedback: too vague
+2025-09-29 22:30:25,588 - INFO - Query: 'How do I fly to the moon?' | Best match score: 0.107
+2025-09-29 22:30:25,589 - WARNING - Low relevance score for query: How do I fly to the moon?
+2025-09-29 22:31:00,637 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-29 22:31:01,039 - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-29 22:31:01,064 - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2025-09-29 22:31:03,422 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-09-29 22:31:06,803 - INFO - HTTP Request: HEAD https://20cb0f43be758f7ebf.gradio.live "HTTP/1.1 200 OK"
+2025-09-29 22:31:39,851 - INFO - Chat query: What is your refund policy?
+2025-09-29 22:31:39,978 - INFO - Query: 'What is your refund policy?' | Best match score: 0.603
+2025-09-29 22:31:40,117 - INFO - Generated answer (confidence: 0.399): We offer full refunds within 30 days of purchase
+2025-09-29 22:31:42,944 - INFO - Chat query: What payment methods do you accept?
+2025-09-29 22:31:43,066 - INFO - Query: 'What payment methods do you accept?' | Best match score: 0.686
+2025-09-29 22:31:43,197 - INFO - Generated answer (confidence: 0.916): Visa, MasterCard, American Express, PayPal, and Apple Pay
+2025-09-29 22:33:05,489 - INFO - Chat query: How do I track my order?
+2025-09-29 22:33:05,628 - INFO - Query: 'How do I track my order?' | Best match score: 0.798
+2025-09-29 22:33:05,768 - INFO - Generated answer (confidence: 0.264): via email

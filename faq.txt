@@ -1,0 +1,45 @@
+Resetting Your Password
+To reset your password, go to the login page and click "Forgot Password." 
+Enter your email address and follow the link sent to your inbox. 
+If you don't receive the email within 5 minutes, check your spam folder.
+
+Refund Policy
+We offer full refunds within 30 days of purchase for any reason. 
+To request a refund, contact support at support@example.com with your order number. 
+Refunds are processed within 5-7 business days to your original payment method.
+
+Contacting Support
+Email us at support@example.com or call 1-800-555-1234 during business hours (9 AM - 5 PM EST, Monday-Friday).
+For urgent issues, use our live chat feature on the website.
+
+Shipping Information
+Standard shipping takes 5-7 business days and is free for orders over $50.
+Express shipping (2-3 days) is available for $15.
+International shipping is available to most countries and takes 10-15 business days.
+
+Account Management
+You can update your profile, change your password, and view order history by logging into your account.
+To delete your account, contact support with your account email.
+
+Product Returns
+Products can be returned within 30 days in original condition.
+Return shipping is free if the product is defective.
+Contact support to initiate a return and receive a prepaid shipping label.
+
+Payment Methods
+We accept Visa, MasterCard, American Express, PayPal, and Apple Pay.
+All payments are processed securely through our encrypted payment gateway.
+
+Order Tracking
+After your order ships, you'll receive a tracking number via email.
+Track your order status in the "My Orders" section of your account.
+
+Technical Support
+For product setup help, visit our Knowledge Base at help.example.com.
+Video tutorials are available for all products.
+Our technical support team is available via email for troubleshooting.
+
+Warranty Information
+All products come with a 1-year manufacturer warranty.
+Extended warranty options are available at checkout.
+Warranty claims should be submitted through our support portal.
